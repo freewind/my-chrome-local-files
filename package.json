@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "server": "http-server . -c-1 -p 18475 --cors -o"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}

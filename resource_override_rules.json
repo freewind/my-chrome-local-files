@@ -1,0 +1,121 @@
+{
+  "v": 1,
+  "data": [
+    {
+      "id": "d1",
+      "matchUrl": "http://drawyan.hopto.org:84/*",
+      "rules": [
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/apps/ArcherApp/app.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/apps/ArcherApp/app.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/apps/common/scripts/jquery-3.0.0.min.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/apps/common/scripts/jquery-3.0.0.min.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/Shared/Scripts/Widgets/TinyMCE/tinymce.min.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/Shared/Scripts/Widgets/TinyMCE/tinymce.min.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/apps/common/scripts/moment-with-locales.min.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/apps/common/scripts/moment-with-locales.min.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/apps/common/scripts/moment-timezone-with-data.min.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/apps/common/scripts/moment-timezone-with-data.min.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/apps/common/scripts/spectrum/spectrum.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/apps/common/scripts/spectrum/spectrum.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/Shared/Scripts/Telerik/Common/Core.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/Shared/Scripts/Telerik/Common/Core.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/Shared/Scripts/Telerik/Common/jQuery.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/Shared/Scripts/Telerik/Common/jQuery.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/Shared/Scripts/Telerik/Common/jQueryPlugins.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/Shared/Scripts/Telerik/Common/jQueryPlugins.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/Shared/Scripts/Telerik/Spell/RadSpell.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/Shared/Scripts/Telerik/Spell/RadSpell.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/Shared/Scripts/Telerik/Dialogs/RadDialogOpenerScripts.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/Shared/Scripts/Telerik/Dialogs/RadDialogOpenerScripts.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/Shared/Scripts/Telerik/Common/Animation/AnimationScripts.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/Shared/Scripts/Telerik/Common/Animation/AnimationScripts.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/Shared/Scripts/Telerik/Common/Popup/PopupScripts.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/Shared/Scripts/Telerik/Common/Popup/PopupScripts.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/Shared/Scripts/Telerik/Common/TouchScrollExtender.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/Shared/Scripts/Telerik/Common/TouchScrollExtender.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/Shared/Scripts/Telerik/Window/RadWindowScripts.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/Shared/Scripts/Telerik/Window/RadWindowScripts.js",
+          "on": true
+        },
+
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZDD9f08twHP14OTAHHwkTkHng8A6V7MBrgn_UCMKNqYUA9-d7vvq24-Yi5eDV0T-Kg2&t=636681459604795562",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/WebResources.axd/pynGkmcFUV13He1Qd6_TZDD9f08twHP14OTAHHwkTkHng8A6V7MBrgn_UCMKNqYUA9-d7vvq24-Yi5eDV0T-Kg2.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvoGCBlNhg1WFrlH6mNzs3CGIUvPDTx7kx3ro-fKOzsfcdaQSwPSvZmNSdWtvYzYUjKQ_PH7MIsnNWqCz7f7eASL-00mXilEBKOkvXJvuoIetCVfFhKGTYUvlLLmtHcUQmqkxk9-mgDG6QIlDJNiOYk01&t=545ba255",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/WebResources.axd/NJmAwtEo3Ipnlaxl6CMhvoGCBlNhg1WFrlH6mNzs3CGIUvPDTx7kx3ro-fKOzsfcdaQSwPSvZmNSdWtvYzYUjKQ_PH7MIsnNWqCz7f7eASL-00mXilEBKOkvXJvuoIetCVfFhKGTYUvlLLmtHcUQmqkxk9-mgDG6QIlDJNiOYk01.js",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http://drawyan.hopto.org:84/RSAarcher/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8ONR2SOUHvMGjQ6Uqu3k9cOSStk0TG6xGKX7R_1eBsg2SgzQgEFmboRVp7XZdXWNjQvnr1DEmWP-xjDSMOv9tn1kX6MOU0Zi9KIagFmjBYVFIofEv6vG3LGZcM_qhpV3tp6OkEd0l62zn-Qku0nitRuw1&t=545ba255",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/WebResources.axd/dwY9oWetJoJoVpgL6Zq8ONR2SOUHvMGjQ6Uqu3k9cOSStk0TG6xGKX7R_1eBsg2SgzQgEFmboRVp7XZdXWNjQvnr1DEmWP-xjDSMOv9tn1kX6MOU0Zi9KIagFmjBYVFIofEv6vG3LGZcM_qhpV3tp6OkEd0l62zn-Qku0nitRuw1.js",
+          "on": true
+        }
+      ],
+      "on": true
+    }
+  ]
+}
