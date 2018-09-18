@@ -95,24 +95,23 @@
           "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/Shared/Scripts/Telerik/Window/RadWindowScripts.js",
           "on": true
         },
-
         {
           "type": "normalOverride",
-          "match": "http://drawyan.hopto.org:84/RSAarcher/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZDD9f08twHP14OTAHHwkTkHng8A6V7MBrgn_UCMKNqYUA9-d7vvq24-Yi5eDV0T-Kg2&t=636681459604795562",
-          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/WebResources.axd/pynGkmcFUV13He1Qd6_TZDD9f08twHP14OTAHHwkTkHng8A6V7MBrgn_UCMKNqYUA9-d7vvq24-Yi5eDV0T-Kg2.js",
-          "on": true
+          "match": "http://drawyan.hopto.org:84/RSAarcher/apps/common/fonts/ArcherFonts.css",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/apps/common/fonts/ArcherFonts.css",
+          "on":true
         },
         {
           "type": "normalOverride",
-          "match": "http://drawyan.hopto.org:84/RSAarcher/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvoGCBlNhg1WFrlH6mNzs3CGIUvPDTx7kx3ro-fKOzsfcdaQSwPSvZmNSdWtvYzYUjKQ_PH7MIsnNWqCz7f7eASL-00mXilEBKOkvXJvuoIetCVfFhKGTYUvlLLmtHcUQmqkxk9-mgDG6QIlDJNiOYk01&t=545ba255",
-          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/WebResources.axd/NJmAwtEo3Ipnlaxl6CMhvoGCBlNhg1WFrlH6mNzs3CGIUvPDTx7kx3ro-fKOzsfcdaQSwPSvZmNSdWtvYzYUjKQ_PH7MIsnNWqCz7f7eASL-00mXilEBKOkvXJvuoIetCVfFhKGTYUvlLLmtHcUQmqkxk9-mgDG6QIlDJNiOYk01.js",
-          "on": true
+          "match": "http://drawyan.hopto.org:84/RSAarcher/apps/common/icons/ArcherIcons.css",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/apps/common/icons/ArcherIcons.css",
+          "on":true
         },
         {
           "type": "normalOverride",
-          "match": "http://drawyan.hopto.org:84/RSAarcher/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8ONR2SOUHvMGjQ6Uqu3k9cOSStk0TG6xGKX7R_1eBsg2SgzQgEFmboRVp7XZdXWNjQvnr1DEmWP-xjDSMOv9tn1kX6MOU0Zi9KIagFmjBYVFIofEv6vG3LGZcM_qhpV3tp6OkEd0l62zn-Qku0nitRuw1&t=545ba255",
-          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/WebResources.axd/dwY9oWetJoJoVpgL6Zq8ONR2SOUHvMGjQ6Uqu3k9cOSStk0TG6xGKX7R_1eBsg2SgzQgEFmboRVp7XZdXWNjQvnr1DEmWP-xjDSMOv9tn1kX6MOU0Zi9KIagFmjBYVFIofEv6vG3LGZcM_qhpV3tp6OkEd0l62zn-Qku0nitRuw1.js",
-          "on": true
+          "match": "http://drawyan.hopto.org:84/RSAarcher/Shared/Scripts/jquery/jquery.js?ArcherVersion=6.4.200.1032",
+          "replace": "http://127.0.0.1:18475/drawyan.hopto.org/RSAarcher/Shared/Scripts/jquery/jquery.js",
+          "on":true
         }
       ],
       "on": true
